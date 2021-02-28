@@ -1,2 +1,2 @@
 # Election-Result
-Project oF Numpy Project
+Project of Numpy Project
